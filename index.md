@@ -3,7 +3,9 @@ layout: default
 title: "Bienvenido"
 ---
 
-# ¡Hola! 👋  
+# ¡Hi there! Welcome to my espace👋
+## Leonardo Tarulli # Data analytics
+### How am i?
 Soy un desarrollador con experiencia en **React, Python y Jekyll**.  
 
 ## Proyectos  
