@@ -12,8 +12,11 @@ My name is Leonardo Tarulli, I am 25 years old, from Argentina and an Italian ci
 ### My portfolio
 Below you will find some projects I did.
 
-## Proyectos  
-- 🚀 [Proyecto 1](https://github.com/tuusuario/proyecto1)  
-- 💡 [Proyecto 2](https://github.com/tuusuario/proyecto2)  
+## My portfolio  
+- Marketing Campaign - Python 🐍 (https://shorturl.at/NL5uK)
+- Credit Risk - Python 🐍 (https://shorturl.at/rOEUH)
+- Sales Analysis - Python 🐍 (https://shorturl.at/2Kq72)
+
+- Google spreadsheets / Excel
 
 Contáctame en [LinkedIn](https://linkedin.com/in/tuusuario).
