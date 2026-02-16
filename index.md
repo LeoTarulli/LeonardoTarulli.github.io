@@ -1,11 +1,8 @@
 ## Leonardo Tarulli | Data analytics
 ### About me
 
-Passionate about extracting meaningful insights from data. Successfully developed an end-to-end business solution by building a custom ERP (Google AppSheet & Sheets) to centralize sales, inventory, and marketing data, integrated with Power BI for real-time KPI tracking (Revenue, ROAS, ROI, AOV). Proficient in SQL, Excel, and Power BI, with experience using Python (Jupyter Notebooks) for Exploratory Data Analysis and predictive modeling. Portfolio
+Passionate about extracting meaningful insights from data. Successfully developed an end-to-end business solution by building a custom ERP (Google AppSheet & Sheets) to centralize sales, inventory, and marketing data, integrated with Power BI for real-time KPI tracking (Revenue, ROAS, ROI, AOV). Proficient in SQL, Excel, and Power BI, with experience using Python (Jupyter Notebooks) for Exploratory Data Analysis and Machine Learning models.
 
-
-### My portfolio
-Below you will find some projects I did.
 
 ## My portfolio  
 - Marketing Campaign - Python 🐍 (https://shorturl.at/NL5uK)
@@ -14,4 +11,4 @@ Below you will find some projects I did.
 
 - Google spreadsheets / Excel
 
-Contáctame en [LinkedIn](https://linkedin.com/in/tuusuario).
+Contáctame en [LinkedIn](https://www.linkedin.com/in/leo-tarulli/).
