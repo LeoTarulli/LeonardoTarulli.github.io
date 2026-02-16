@@ -5,9 +5,8 @@ Passionate about extracting meaningful insights from data. Successfully develope
 
 
 ## My portfolio  
-- Marketing Campaign - Python 🐍 (https://shorturl.at/NL5uK)
-- Credit Risk - Python 🐍 (https://shorturl.at/rOEUH)
-- Sales Analysis - Python 🐍 (https://shorturl.at/2Kq72)
+
+- Sales Analysis - Python [Link]([https://shorturl.at/2Kq72](https://www.kaggle.com/code/leonardotarulli/sales-analysis-project/notebook))
 
 - Google spreadsheets / Excel
 
