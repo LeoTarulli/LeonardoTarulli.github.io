@@ -1,6 +1,7 @@
 ## Leonardo Tarulli | Data analytics
 ### About me
-My name is Leonardo Tarulli, I am 25 years old, from Argentina and an Italian citizen. I started my journey in Data Analytics at the beginning of 2024, learning the foundations of data analytics,  Python ( Pandas, NumPy, Seaborn, and Matplotlib packages), SQL (MySQL Work bench), and Looker Studio. I like working through data in order to get insights to propose solution to problems. The main problem for businesses was always get accesss to the best / valuable data as fast as possible in order to take decision and my mission as Data Analyst is to help them with my knowledge to improve their decision-makeing by analyzing data. 
+
+Passionate about extracting meaningful insights from data. Successfully developed an end-to-end business solution by building a custom ERP (Google AppSheet & Sheets) to centralize sales, inventory, and marketing data, integrated with Power BI for real-time KPI tracking (Revenue, ROAS, ROI, AOV). Proficient in SQL, Excel, and Power BI, with experience using Python (Jupyter Notebooks) for Exploratory Data Analysis and predictive modeling. Portfolio
 
 
 ### My portfolio
